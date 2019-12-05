@@ -1,0 +1,3 @@
+/cygdrive/c/Users/drgam/CLionProjects/lab-3-master/lab-3-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/drgam/CLionProjects/lab-3-master/lab-3-master/cmake-build-debug/CMakeFiles/Lab3-Fractal.dir
+/cygdrive/c/Users/drgam/CLionProjects/lab-3-master/lab-3-master/cmake-build-debug/CMakeFiles/edit_cache.dir
